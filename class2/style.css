@@ -1,0 +1,135 @@
+a {
+  color: #2a95cd;
+  text-decoration: none;
+}
+body {
+  background: none repeat scroll 0 0 #f6f6f6;
+  font-family: Verdana;
+}
+p {
+color: #666;
+}
+.container {
+  width: 870px;
+  margin: 0 auto;
+}
+
+.header_area {
+  padding-bottom: 20px;
+}
+.header_area img{
+  
+}
+.intro_area {
+  
+}
+.intro_image {
+  float: left;
+  width: 495px;
+  padding-right: 25px;
+}
+.intro_image img {
+  
+}
+.intro_text {
+  float: left;
+  width: 350px;
+}
+.intro_text h1 {
+  color: #2a95cd;
+  font-size: 25px;
+  font-weight: normal;
+  margin: 0;
+}
+.intro_text p {
+  font-size: 12px;
+  line-height: 24px;
+}
+.content_area_line {
+  border-top: 1px solid #e3e3e3;
+  float: left;
+  margin-top: 20px;
+  padding-top: 20px;
+  width: 100%;
+}
+.content_area{
+  
+}
+.service_area {
+  float: left;
+  width: 350px;
+  padding-right: 10px;
+}
+.service {
+  background: none repeat scroll 0 0 #f1f1f1;
+  border: 1px solid #ddd;
+  border-radius: 15px;
+  display: block;
+  float: left;
+  margin-bottom: 10px;
+  width: 350px;
+}
+.service img {
+  float: left;
+  padding: 20px;
+  margin-top: 29px;
+}
+.service p {
+  font-family: Verdana;
+  font-size: 12px;
+  line-height: 18px;
+  padding: 15px;
+  margin: 3px;
+  text-align: justify;
+}
+.content {
+  background: none repeat scroll 0 0 #f1f1f1;
+  border: 1px solid #ddd;
+  float: left;
+  width: 508px;
+  border-radius: 15px;
+  display: block;
+}
+.content h1 {
+  color: #666;
+  font-size: 24px;
+  font-weight: normal;
+  margin: 0;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 20px;
+}
+.content p {
+  font-family: Verdana;
+  font-size: 12px;
+  line-height: 24px;
+  margin: 0;
+  padding: 10px 30px 30px;
+  text-align: justify;
+}
+.footer_area {
+  background: none repeat scroll 0 0 #f1f1f1;
+  border: 1px solid #ddd;
+  border-radius: 15px;
+  float: left;
+  margin-top: 5px;
+  width: 100%;
+}
+.copyright {
+  float: left;
+  width: 400px;
+  padding: 20px;
+}
+.copyright p{
+    text-align: left;
+  font-size: 12px;
+}
+.designer {
+  float: right;
+  width: 384px;
+  padding: 20px;
+}
+.designer p {
+  text-align: right;
+  font-size: 12px;
+}
